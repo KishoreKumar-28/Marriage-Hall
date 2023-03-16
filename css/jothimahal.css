@@ -1,0 +1,138 @@
+.text
+{
+    font-style: italic;
+    font-family:inherit;
+}
+#Amenities
+{
+    min-height: 800px;
+    width: auto;
+}
+#amenities
+{
+    line-height: 100px;
+text-align: center;
+}
+#amenities1
+{
+text-align: center;
+}
+.card-text
+{
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.card-title
+{
+    font-style: italic;
+}
+#grid
+{
+    min-height: 1000px;
+    padding: 100px;
+}
+.card:hover{
+    background-color: #d2b48c;
+    color: white;
+    transform: scale(1.1);
+}
+.dropdown-item:hover{
+    background-color: #0D6EFD;
+    color: white;
+}
+#gallerydiv
+{
+    min-height: 800px;
+}
+#gallery
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.image
+{
+    padding: 20px;
+}
+#mapd
+{
+    font-style: italic;
+    padding: 30px;
+    text-align: center;
+}
+#maps
+{
+    display: flex;
+    justify-content: center;
+}
+#avail
+{
+    display: flex;
+    height: 700px;
+    padding: 50px;
+    flex-wrap: wrap;
+}
+#submit
+{
+    width: 50%;
+    position: absolute;
+    display: none;
+    text-align: center;
+    padding: 100px;
+    padding-top: 250px;
+    color:  rgb(0, 17, 255);
+}
+#form
+{
+    width: 50%;
+    padding: 50px;
+    font-style: italic;
+    line-height: 50px;
+}
+#form:hover{
+    background-color: rgb(183, 238, 255);
+}
+#event
+{
+    
+    height: 35px;
+    width: 100%;
+}
+#details
+{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 200px;
+}
+#details:hover{
+    background-color: rgb(183, 241, 255);
+}
+#contact:hover
+{
+transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.dropdown-item
+{
+    line-height: 20px;
+}
+footer{
+    height: 30px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #0D6EFD;
+}
+#event
+{
+    display: flex;
+}
+.dropdown-item
+{
+    text-align: center;
+}
+
